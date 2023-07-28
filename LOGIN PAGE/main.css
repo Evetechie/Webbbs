@@ -2,8 +2,8 @@ body
 {
     margin: 0;
     padding: 0;
-    background-color: brown;
-    font-family: 'Arial';
+    background-color: wheat;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .login{
     width: 382px;
@@ -11,54 +11,57 @@ body
     margin: auto;
     margin: 20 0 0 450px;
     padding: 80px;
-    background: #23463f;
+    background: palevioletred;
     border-radius: 15px;
 
 }
 h2{
     text-align: center;
-    color:mediumorchid;
+    color: brown;
     padding: 20px;
 }
 label{
-    color:plum;
+    color:rgb(133, 14, 133);
     font-size: 17px;
 
 }
 #Uname{
-    width: 300px;
-    height: 30px;
+    width: 320px;
+    height: 32px;
     border: none;
-    border-radius: 3px;
+    border-radius: 17px;
     padding-left: 9px;
 
 }
 #Pass{
-    width: 300px;
-    height: 30px;
+    width: 320px;
+    height: 32px;
     border: none;
     border-radius: 17px;
     padding-left: 7px;
-    color:cyan;
+    color:powderblue;
 
 
 }
 #log{
-    width: 300px;
-    height: 30px;
+    width: 320px;
+    height: 25px;
     border: none;
     border-radius: 17px;
     padding-left: 7px;
-    color:cyan;
+    color:blue;
 
     
 }
 span{
-    color: white;
+    color: rgb(226, 49, 17);
     font-size: 17px;
 
+
 }
+
 a{
     float:right;
-    background-color: aqua;
+    margin-left: 5px;
+    background-color: powderblue
 }
